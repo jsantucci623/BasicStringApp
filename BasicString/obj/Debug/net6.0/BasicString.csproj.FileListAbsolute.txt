@@ -1,0 +1,15 @@
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\bin\Debug\net6.0\BasicString.exe
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\bin\Debug\net6.0\BasicString.deps.json
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\bin\Debug\net6.0\BasicString.runtimeconfig.json
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\bin\Debug\net6.0\BasicString.dll
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\bin\Debug\net6.0\BasicString.pdb
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.csproj.AssemblyReference.cache
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.AssemblyInfoInputs.cache
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.AssemblyInfo.cs
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.csproj.CoreCompileInputs.cache
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.dll
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\refint\BasicString.dll
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.pdb
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\BasicString.genruntimeconfig.cache
+C:\Users\jsantucci\source\repos\BasicStringApp\BasicString\obj\Debug\net6.0\ref\BasicString.dll
